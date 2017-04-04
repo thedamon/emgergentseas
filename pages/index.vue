@@ -73,6 +73,7 @@
     font-family: 'Space Mono', monospace;
     font-style: italic;
     text-align: center;
+    word-spacing: -10px;
   }
   header p {
     margin: 0;
