@@ -5,7 +5,7 @@
     <div class="container">
       <header>
         <p><strong>EmergentSeas</strong> presents</p>
-        <h1>My Planet and Me</h1>
+        <h1>My&nbsp;Planet and&nbsp;Me</h1>
         <h2>in which a sad millennial receives telepathic communications from a distant planet</h2>
 
         <p class="shouty">A speculative, darkly comedic solo show by Damon Muma premiering at the 2017 London Fringe Theatre Festival.</p>
@@ -21,8 +21,8 @@
         <section class="info">
          <div class="info-block">
             <ul class="credits">
-              <li>Produced, written and performed by <span>Damon Muma</span></li>
-              <li>Directed by <span>Kristin Bennett, Cara Moyer and Damon Muma</span></li>
+              <li>Written and performed by <span>Damon Muma</span></li>
+              <li>Directed by <span>Kristin Bennett, <br>Cara Moyer and <br>Damon Muma</span></li>
               <li>Original Sounds: <span><a href="https://wormwoodmusic.bandcamp.com/">Wormwood</a></span></li>
               <li>Stage Manager: <span>Cara Moyer</span></li>
               <li>Dramaturge: <span>Kristin Bennett</span></li>
@@ -32,7 +32,6 @@
             </ul>
           </div>
           <div class="info-block">
-            <p>All performances at <a href="http://theartsproject.ca">The Arts Project</a>, 203 Dundas St, London</p>
 
             <ul class="showtimes">
               <li>Thurs, June 1 7:00pm</li>
@@ -43,7 +42,8 @@
               <li>Sat, June 10 1:00pm</li>
             </ul>
 
-            <p>Tickets available May 1st at <a href="http://londonfringe.ca">the Fringe website</a></p>
+            <p>at <a href="http://theartsproject.ca">The Arts Project</a>,<br>203 Dundas St, London</p>
+            <p>Tickets available May 1st at <a href="http://londonfringe.ca">the&nbsp;Fringe&nbsp;website</a></p>
           </div>
 
         </section>
@@ -72,15 +72,19 @@
     font-weight: normal;
   }
   h1 {
-    margin-top: 0;
-    font-size: 60px;
+    margin: 0;
+    font-size: calc(4.7vw + 27px);
     font-family: 'Space Mono', monospace;
     font-style: italic;
+    line-height: 1;
     text-align: center;
-    word-spacing: -10px;
+    word-spacing: calc(-17px + 1vw);
   }
   header p {
     margin: 0;
+  }
+  header h2 {
+    margin: 10px 0;
   }
   body {}
   body::before {
@@ -150,12 +154,27 @@
     .info {
       display: flex;
     }
+    .info > div {
+      width: 50%;
+    }
+  }
+
+  .info-block {
+    margin-bottom: 48px;
   }
 
   .credits li {
     text-transform: uppercase;
     font-size: 14px;
     margin-bottom: 20px;
+  }
+
+  .credits li:first-child {
+    font-size: 20px;
+  }
+
+  .credits li:first-child span {
+    font-size: 40px;
   }
 
   .credits li span {
