@@ -62,13 +62,16 @@
 </template>
 
 <style>
+  /*@mixin f($px){
+    font-size: calc($px - 10 + 5vw);
+  }*/
   html {
     background-color: black;
     color: white;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     line-height: 1.3;
-    font-size: 20px;
+    font-size: calc(13px + 1.5vw);
   }
   body {
     margin: 0;
@@ -78,12 +81,15 @@
   }
   h1 {
     margin: 0;
-    font-size: calc(4.7vw + 27px);
+    font-size: calc(27px + 4.7vw);
     font-family: 'Space Mono', monospace;
     font-style: italic;
     line-height: 1;
     text-align: center;
     word-spacing: calc(-17px + 1vw);
+  }
+  h2 {
+    font-size: calc(18px + 1vw);
   }
   header p {
     margin: 0;
@@ -128,7 +134,10 @@
   }
 
   .container {
-    margin: 0vw 10vw ;
+    margin: 0 auto;
+    width: 80vw;
+    min-width: 310px;
+    max-width: 1440px;
     color: white;
     /*background-color: rgba(255,255,255,.2);*/
     background: linear-gradient(328deg, rgba(0,0,0,0.15) 0%, rgba(255,255,255,0.15) 100%);
@@ -144,7 +153,7 @@
 
   .info {
     text-align: center;
-    font-size: 24px;
+    font-size: calc(13px + 1.5vw);
   }
 
   .info p {
@@ -174,28 +183,28 @@
 
   .credits li {
     text-transform: uppercase;
-    font-size: 16px;
-    margin-bottom: 20px;
+    font-size: calc(13px + .75vw);
+    margin-bottom: calc(18px + .5vw);
   }
 
   .credits li:first-child {
-    font-size: 20px;
+    font-size: calc(15px + .75vw);
   }
 
   .credits li:first-child span {
-    font-size: 40px;
+    font-size: calc(30px + 1.5vw);
   }
 
   .credits li span {
     text-transform: none;
-    font-size: 28px;
+    font-size: calc(21px + 1vw);
     line-height: 1.1;
     display: block;
   }
 
   main p {
     text-align: center;
-    font-size: 24px;
+    font-size: calc(18px + .9vw);
   }
 
   ul, ol {
