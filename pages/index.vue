@@ -43,10 +43,15 @@
             </ul>
 
             <p>at <a href="http://theartsproject.ca">The Arts Project</a>,<br>203 Dundas St, London</p>
-            <p>Tickets available May 1st at <a href="http://londonfringe.ca">the&nbsp;Fringe&nbsp;website</a></p>
+            <p>Tickets available May 1st at the <a href="http://londonfringe.ca">Fringe&nbsp;website</a></p>
+            <p>15 minute excerpt at <a href="https://www.facebook.com/events/761987920642197/">Open Open Open</a> in Toronto on April 27</p>
+            <p>Trailer premiere: Kangaroo Variety, April 29</p>
+            <!-- <p>A zine illustrated by Antony Hare: beginning of May</p> -->
+            <br>
           </div>
 
         </section>
+          <p>Follow developments on Twitter: <a href="http://twitter.com/_emergent_seas">@_emergent_seas</a></p>
 <!--         <h2>Very Special Thanks:</h2>
         <p>
           Emma Bulpin, Laurie Bursch,  Valerie Cotic, Jason Dickson,  Caleb Heddle, Pam Haasen, Antony Hare, Dorit Osher, Jon Patterson, Kara Riepart, Savannah Sewell,  Margot Stothers, Matthew Trueman - Nicholas Veit
@@ -142,6 +147,10 @@
     font-size: 24px;
   }
 
+  .info p {
+
+  }
+
   img {
     width: 100%;
   }
@@ -165,7 +174,7 @@
 
   .credits li {
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 16px;
     margin-bottom: 20px;
   }
 
@@ -184,6 +193,10 @@
     display: block;
   }
 
+  main p {
+    text-align: center;
+    font-size: 24px;
+  }
 
   ul, ol {
     list-style: none;
