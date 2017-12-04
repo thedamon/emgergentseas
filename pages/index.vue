@@ -33,9 +33,9 @@
 
       <main>
         <section class="ctas">
-          <a href="http://aeolianhall.ca/events/my-planet-and-me-one-act-play/">Aeolian</a>
-          <a href="https://www.facebook.com/events/212879372535108/">RSVP</a>
-          <a href="https://red.vendini.com/ticket-software.html?t=tix&e=8f5146ed1ec26663275b96a0f294fd7f">Tickets</a>
+          <a href="http://aeolianhall.ca/events/my-planet-and-me-one-act-play/">🏛 Aeolian</a>
+          <a href="https://www.facebook.com/events/212879372535108/">📅 RSVP</a>
+          <a href="https://red.vendini.com/ticket-software.html?t=tix&e=8f5146ed1ec26663275b96a0f294fd7f">🎟 Tickets</a>
         </section>
 
         <section class="info">
