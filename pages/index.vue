@@ -24,7 +24,7 @@
         <p class="showtimes">
           Friday, January 12 at 8:00pm (Doors at 7:00pm)
         </p>
-        <p>at <a href="http://theartsproject.ca">The Aeolian Hall</a>,<br>795 Dundas St E, London</p>
+        <p>at <a href="http://aeolianhall.ca">The Aeolian Hall</a>,<br>795 Dundas St E, London</p>
         </div>
 
       </header>
@@ -48,7 +48,7 @@
 
             <hr>
 
-            <p>Tickets available at the <a href="http://londonfringe.ca/festivals/london-fringe-festival/events/my-planet-and-me">Aeolian&nbsp;website</a> or in person at the venue</p>
+            <p>Tickets available at the <a href="http://aeolianhall.ca/events/my-planet-and-me-one-act-play/">Aeolian&nbsp;website</a> or in person at the venue</p>
             <p>Twitter: <a href="http://twitter.com/_emergent_seas">@_emergent_seas</a></p>
             <p>Instagram: <a href="https://www.instagram.com/explore/tags/myplanetandme/">#myplanetandme</a></p>
           </div>
@@ -60,6 +60,7 @@
               <li>Dramaturge: <span>Kristin Bennett</span></li>
               <li>Additional voices: <span>Kristin Bennett, Christina Willatt, Kara Riepart</span></li>
               <li>Trailer production: <span>Pam Haasen, Matt Dupont</span></li>
+              <li>Photography: <span>Pam Haasen</span></li>
               <li>Poster artwork: <span><a href="http://cargocollective.com/RobinHenry">Robin Henry</a></span></li>
             </ul>
           </div>
