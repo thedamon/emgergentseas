@@ -5,39 +5,20 @@
     <pre aria-hidden="true">✷  · 　 　      　　.  　　 　　 　    　✵   ✷  　　  ·     　　  　　 　　✵  *  .         　　　　.  　 　 　　     　* 　　　 　　 · ✦         ✦ .· 　　 ·      ✦  ✵  · . 　  　   *      .          * 　 　　　　✷     .    　.         ·  　 .   　·. ✷   ⋆   ✹  . 　　 ✵      +  ˚      * 　　　　　* 　　　　　　  ⋆ 　　 ✧ *  · 　 . 　 ✧ ˚ 　 *   　 +  ˚   · .  .　　*  * 　 ˚  .　　　　　 +  　　　 *  *　　 　 　.  ·✵  . 　   ˚ . 　  ✵　 　　　 　　　　.  ˚ 　  　  　 ✧ ·  　　 ⊹ *  .  　　  　 　  　 · 　　　　　　　 ✦  ⊹ 　  　 　  　　   ✵                         ˚ 　　        ✹   .  　　   ✦ 　 *     　　  ✹  ˚   　   ·.　    　　 *　✷   　　　　　    　　  　　 .  　* ·  　     ✺ 　　　　　　　　.   *  　    　 ˚  　　 ✧    ⋆  *   　　 ✦  ·     　 *   . 　✵   *　     ··  　　 　　 　　 　　　　    　　　　 · . .  .  ✦ 　      ✵ * .  ·　　　　　 . 　　　     · ˚ 　 ·     ✵   　　 .　　 　　 . ·     .  .   　     ˚     　 　 ˚  *  ˚     　　. · * 　 　　　　    　 　 　 ⋆ 　　　　 　　     　   　　　 . 　　　  . 　　    　　  ⋆ 　　　　　 .    ˚ 　 　　　　　　　✷      　　 · 　　　　　     　　  　  　 　 　  　 ⋆     · 　*  .  ✧ ˚ 　 .  ✦ *      * 　· 　  　　 　　　    　 ·  ·  　 　✷        　 ✫ · *  ✹    </pre>
     <div class="container">
       <header>
-        <p class="presenter"><strong>EmergentSeas</strong> and <strong>The Aeolian Hall</strong> present</p>
+        <p class="presenter"><strong>EmergentSeas</strong> presents</p>
         <h1>My&nbsp;Planet &amp;&nbsp;Me</h1>
 
-        <p class="shouty">Damon Muma's speculative solo Fringe performance reimagined as a one-night only interdisciplinary collaboration</p>
-        <a class="poster" href="http://aeolianhall.ca/events/my-planet-and-me-one-act-play/">
-          <img src="../static/aeolian-planet.jpg" alt="More information on the Aeolian website"/>
-        </a>
-
-        <div class="title-details">
-
-        <ul class="title-credits">
-          <li>Theatre <span>EmergentSeas</span></li>
-          <li>Live Music <span>Timothy Glasgow</span></li>
-          <li>Kinetic Light Sculptures <span><a href="http://www.matthewtrueman.com/">Matthew Trueman</a></span></li>
-          <li>Live contemporary dance <span><a href="">Public Displays of Art</a></span></li>
-        </ul>
-        <p class="showtimes">
-          Friday, January 12 at 8:00pm (Doors at 7:00pm)
-        </p>
-        <p>at <a href="http://theartsproject.ca">The Aeolian Hall</a>,<br>795 Dundas St E, London</p>
-        </div>
-
+        <p class="shouty">premiering at the 2017 London Fringe Theatre Festival</p>
       </header>
 
-      <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/lYFZSF-NJiM?modestbranding=1&rel=0&loop=1' frameborder='0' allowfullscreen></iframe></div>
+      <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/lYFZSF-NJiM' frameborder='0' allowfullscreen></iframe></div>
 
       <main>
         <section class="ctas">
-          <a href="http://aeolianhall.ca/events/my-planet-and-me-one-act-play/">Aeolian</a>
+          <a href="http://londonfringe.ca/festivals/london-fringe-festival/events/my-planet-and-me">Fringe</a>
           <a href="https://www.facebook.com/events/212879372535108/">RSVP</a>
-          <a href="https://red.vendini.com/ticket-software.html?t=tix&e=8f5146ed1ec26663275b96a0f294fd7f">Tickets</a>
+          <a href="https://tickets.londonfringe.ca/TheatreManager/1/login&event=284">Tickets</a>
         </section>
-
         <section class="info">
           <div class="info-block">
             <hr>
@@ -45,19 +26,31 @@
             <p class="praise">“&nbsp;A standout show — <a href="https://theatreinlondon.ca/2017/06/my-planet-and-me/#comment-1686">★&nbsp;★&nbsp;★&nbsp;★</a>&nbsp;”</p>
             <p class="praise">“&nbsp;<a href="https://theatreinlondon.ca/2017/06/my-planet-and-me/#comment-1603">★&nbsp;★&nbsp;★&nbsp;★</a>&nbsp;”</p>
             <p class="praise">“&nbsp;<a href="https://theatreinlondon.ca/2017/06/my-planet-and-me/#comment-1676">★&nbsp;★&nbsp;★&nbsp;★</a>&nbsp;”</p>
-
+            <p class="praise">“&nbsp;Too effective <a href="http://www.lfpress.com/2017/06/08/london-fringe-my-planet-and-me-written-and-performed-by-damon-muma-directed-by-kristin-bennett-and-cara-moyer">👀</a>&nbsp;”</p>
             <hr>
+            <table class="showtimes">
+              <tr><td>Thu,</td><td>June 1</td><td>7:00pm</td></tr>
+              <tr><td>Sat,</td><td>June 3</td><td>5:00pm</td></tr>
+              <tr><td>Sun,</td><td>June 4</td><td>9:00pm</td></tr>
+              <tr><td>Tue,</td><td>June 6</td><td>6:30pm</td></tr>
+              <tr><td>Fri,</td><td>June 9</td><td>8:00pm</td></tr>
+              <tr><td>Sat,</td><td>June 10</td><td>1:00pm</td></tr>
+            </table>
 
-            <p>Tickets available at the <a href="http://londonfringe.ca/festivals/london-fringe-festival/events/my-planet-and-me">Aeolian&nbsp;website</a> or in person at the venue</p>
+            <p>at <a href="http://theartsproject.ca">The Arts Project</a>,<br>203 Dundas St, London</p>
+            <p>Tickets available at the <a href="http://londonfringe.ca/festivals/london-fringe-festival/events/my-planet-and-me">Fringe&nbsp;website</a></p>
             <p>Twitter: <a href="http://twitter.com/_emergent_seas">@_emergent_seas</a></p>
             <p>Instagram: <a href="https://www.instagram.com/explore/tags/myplanetandme/">#myplanetandme</a></p>
           </div>
           <div class="info-block">
             <ul class="credits">
               <li>Written and performed by <span>Damon Muma</span></li>
-              <li>Directed by <span>Kristin Bennett and <br>Cara Moyer</span></li>
+              <li>Directed by <span>Kristin Bennett, <br>Cara Moyer and <br>Damon Muma</span></li>
+              <li>Original Soundtrack: <span><a href="https://wormwoodmusic.bandcamp.com/">Wormwood</a></span></li>
               <li>Stage Manager: <span>Cara Moyer</span></li>
               <li>Dramaturge: <span>Kristin Bennett</span></li>
+              <li>Movement Director: <span><a href="https://hannahgoldberg.wixsite.com/dance">Hannah Goldberg</a></span></li>
+              <li>Set Design: <span><a href="http://www.matthewtrueman.com/">Matthew Trueman</a></span></li>
               <li>Additional voices: <span>Kristin Bennett, Christina Willatt, Kara Riepart</span></li>
               <li>Trailer production: <span>Pam Haasen, Matt Dupont</span></li>
               <li>Poster artwork: <span><a href="http://cargocollective.com/RobinHenry">Robin Henry</a></span></li>
@@ -65,16 +58,14 @@
           </div>
 
 
-
-
         </section>
 
 
-<!--
+
         <h2 class="new-section">Very Special Thanks:</h2>
         <p>
-          Dorit Osher, Margot Stothers, Michael Del Vecchio, Nicholas Veit
-        </p> -->
+          Emma Bulpin, Valerie Cotic, Jason Dickson, Antony Hare, Kathy Navackas, Dorit Osher, Jon Paterson, Dave Rino, Margot Stothers, Moxies Grill and Bar, Nicholas Veit
+        </p>
       </main>
       <img src="../assets/images/mosaic.jpg" alt="Some photographs of Damon looking like a fucking hipster lying on the floor">
     </div>
@@ -101,14 +92,14 @@
   }
   h1 {
     margin: 0;
-    font-size: calc(18px + 6.3vw);
+    font-size: calc(17px + 6.9vw);
     font-family: 'Space Mono', monospace;
     font-style: italic;
     line-height: 1;
     word-spacing: calc(-17px + 1vw);
 
     @media (min-width: 2048px){
-      font-size: 145px;
+      font-size: 147px;
     }
   }
 
@@ -116,37 +107,9 @@
     font-size: calc(13px + 1vw);
   }
 
-  header {
-    position: relative;
+  header p {
+    margin: 0;
   }
-
-  header .poster {
-    width: 50%;
-    display: block;
-    opacity: .8;
-    margin-bottom: 20px;
-    max-width: 600px;
-    &:hover {
-      opacity: 1;
-      transform: scale(1.05);
-    }
-  }
-
-@media screen and (min-width: 600px) {
-  .title-details {
-    vertical-align: top;
-    margin-left: 5%;
-    width: 45%;
-    display: inline-block;
-  }
-
-
-  header .poster {
-    display: inline-block;
-    margin: 0 0 0 0;
-  }
-}
-
   header h1 + * {
     margin-top: 16px;
   }
@@ -159,7 +122,7 @@
   header h2 {
     margin: 10px 0;
   }
-
+  body {}
   body::before {
     content: "";
     position: fixed;
@@ -248,29 +211,21 @@
   }
 
   .ctas a {
-    border-radius: 24px;
     background-color: rgba(0,0,0,.4);
     border: solid 4px rgba(255,255,255,.2);
     padding: calc(4px + 1.8vw) 5vw;
     text-decoration: none;
-    transition: box-shadow 300ms cubic-bezier(.2,0,.7,1), transform 200ms cubic-bezier(.2,0,.7,1);
 
     @media (min-width: 1814px){
       padding: 36px 90px;
     }
-    &:hover {
-      transform: scale(1.05);
-      background-color: rgba(0,0,0,.65);
-      border-color: rgba(255,255,255,.6);
-      box-shadow: 0 0 1px 8px rgba(255,255,255,.3),
-          0 0 1px 12px rgba(255,255,255,.2),
-          0 0 1px 16px rgba(255,255,255,.1);
-    }
-    &:active {
-      background-color: white;
-      color: black;
-    }
   }
+
+  .ctas a:hover {
+    background-color: rgba(0,0,0,.8);
+    border-color: rgba(255,255,255,.4);
+  }
+
   .showtimes {
     td {
       border: none;
@@ -313,14 +268,13 @@
     }
   }
 
-  .title-credits li,
   .credits li {
     text-transform: uppercase;
     font-size: calc(13px + .65vw);
     margin-bottom: calc(15px + .3vw);
   }
 
-  .credits:not(.title-credits) li:first-child {
+  .credits li:first-child {
     font-size: calc(15px + .55vw);
   }
 
@@ -328,7 +282,7 @@
     font-size: calc(30px + 1.2vw);
   }
 
-  .title-credits li span, .credits li span {
+  .credits li span {
     text-transform: none;
     font-size: calc(21px + .8vw);
     line-height: 1.1;
